@@ -1,0 +1,10 @@
+
+.jumbotron {
+    text-align: center;
+}
+
+#search-title {
+    display: flex;
+    justify-content: end;
+    margin-top: 300px;
+}
